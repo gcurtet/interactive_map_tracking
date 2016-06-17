@@ -55,7 +55,6 @@ from collections import namedtuple
 
 
 def CONVERT_S_TO_MS(s):
-	""" """
     return s*1000
 
 
